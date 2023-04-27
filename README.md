@@ -18,8 +18,8 @@ Trading information
 | CoinPaprika               | Info     |[FEC Price, Charts, Markets](https://coinpaprika.com/coin/fec-ferrite/) | Price information and charts |
 | LiveCoinWatch             | Info     |[FEC Price, Charts, Markets](https://www.livecoinwatch.com/price/Ferritecoin-FEC) | Price information and charts | 
 | Trading Information       | Info     |[Trade Ferrite coin](https://github.com/koh-gt/ferrite-core/wiki/Trading-Information) | Price history, available FEC trading pairs, funding contributors |
-| PancakeSwap                | DEX      | [Trade WFEC on Pancakeswap](https://pancakeswap.finance/swap?inputCurrency=0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D) | BEP-20 |
-| Uniswap                    | DEX      | [Trade WFEC on Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x09bf659Db25522bc9c367163966f35ac268e5b75) | BEP-20, ARB-20 |     
+| PancakeSwap                | DEX      | [Trade WFEC on Pancakeswap (BEP-20)](https://pancakeswap.finance/swap?inputCurrency=0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D) | BEP-20 |
+| Uniswap                    | DEX      | [Trade WFEC on Uniswap (BEP-20)](https://app.uniswap.org/#/swap?inputCurrency=0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D)<br>[Trade WFEC on Uniswap (ARB-20)](https://app.uniswap.org/#/swap?inputCurrency=0x09bf659Db25522bc9c367163966f35ac268e5b75) | BEP-20, ARB-20 |     
 
 ## Blockchain information links
 | Name                      | Link                                            | Description                                                                |
@@ -40,6 +40,12 @@ Users can "wrap" their Ferrite and transact WFEC, which is pegged to and redeema
 Proof-of-Work cryptocurrencies such as Ferrite do not have staking support, a way for users to generate coins by holding funds in order to secure a Proof-of-Stake network. Ferrite investors can now stake WFEC on the various blockchains to earn a passive income.
 
 Wrapped Ferrite can also be used for swapping, or as collateral for borrowing and lending for other tokens within DeFi platforms from a selection of networks.
+
+## Tokenomics
+### WFEC Supply Total:  $$\text{𝔽 }204752.98078180$$
+
+**WFEC BEP-20**: ` 𝔽 136752.98079142 `<br>
+**WFEC ARB-20**: ` 𝔽  67999.99999038 `<br>
 
 
 ![wrapped-ferrite-main-512px](https://user-images.githubusercontent.com/101822992/234359307-8ad3a434-9888-4716-a446-25557f8f637c.png)
