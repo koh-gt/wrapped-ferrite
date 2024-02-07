@@ -2,7 +2,12 @@
 
 ### BEP-20 Binance Smart Chain Mainnet
 Contract Address: [BSCScan](https://bscscan.com/token/0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D)  
-`0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D` 
+`0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D`  
+Reserve address [View balance](https://ferritecoin.org:53443/address/FWrapBEPabVWRMTU6uWjHiBaba9S1mejcR):  
+Address: `FWrapBEPabVWRMTU6uWjHiBaba9S1mejcR`  
+Message: `0xA846ab3673dfb3d27F81EcFe5BcA79c06120eE6D`  
+Signature: `HxRDtR78bdxKCMq/BmIA0wO3cxK15TNzMxVLB6jZKj5YQPvjZ+d0EcBdzSx8ffzdzLs7pSnxBVf48pmhq8YrThs=`  
+
 ### ARB-20 Arbitrum One Mainnet
 Contract Address: [ArbiScan](https://arbiscan.io/token/0x09bf659db25522bc9c367163966f35ac268e5b75)  
 `0x09bf659Db25522bc9c367163966f35ac268e5b75`
